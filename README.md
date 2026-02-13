@@ -1,4 +1,4 @@
-  ## Hello there, welcome to my profile! 🎨
+### Hello there, welcome to my profile! 🎨
 
 
 <img src="58n07a7a06081.gif" alt="Gif" width="650px"/>
@@ -9,7 +9,9 @@
 <b>Passionate developer who loves building things that blend logic, creativity, and meaning.</b> 
 <b>I’m deeply interested in **software engineering**, **game development**, **philosophy**, **literature** and **martial arts**!</b> 
 
-### 🧰 Languages and Tools
+#
+
+## 🧰 Languages and Tools
 
 ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
