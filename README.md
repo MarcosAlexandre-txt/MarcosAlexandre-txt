@@ -27,7 +27,7 @@
 
 <b> Click [here](https://marcosportfolio-flame.vercel.app/) to check out my portfolio! 🧑‍🎨 </b>
 <div>
-  <a href = "mailto:marcos.alexandre.scrt@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" /></a>
-  <a href="https://www.linkedin.com/in/marcos-alexandre-cs/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a> 
+  <a href = "mailto:marcos.alexandre.scrt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/marcos-alexandre-cs/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
    <img align="right" src="ff9.gif" height=100px/>
 </div>
