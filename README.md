@@ -1,16 +1,41 @@
-## Hi there 👋
+  ## Hello there, welcome to my profile! 🎨
 
-<!--
-**MarcosAlexandre-txt/MarcosAlexandre-txt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src="58n07a7a06081.gif" alt="Gif" width="650px"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+
+<b>I study systems analysis and development at FATEC in São José dos Campos, Brazil.</b> 
+<b>Passionate developer who loves building things that blend logic, creativity, and meaning.</b> 
+<b>I’m deeply interested in **software engineering**, **game development**, **philosophy**, **literature** and **martial arts**!</b> 
+
+### 🧰 Languages and Tools
+
+![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/react-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Unity](https://img.shields.io/badge/unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+##
+
+<div>
+  <a href="https://beacons.ai/eulauragabriel">
+  <img height="123cm" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eulauragabriel&include_all_commits=true&count_private=true&show_icons=true&title_color=ffffff&bg_color=75c775&text_color=ffffff&border_color=ffffff&icon_color=ffffff"/>
+  <img height="123cm" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eulauragabriel&layout=compact&langs_count=16&title_color=ffffff&bg_color=75c775&text_color=ffffff&border_color=ffffff&icon_color=ffffff"/>
+</div>
+
+##
+
+<b> Click [here](https://marcosportfolio-flame.vercel.app/) to check out my portfolio! 🧑‍🎨 </b>
+<div>
+  <a href = "mailto:marcos.alexandre.scrt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=75c775" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marcos-alexandre-cs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=75c775" target="_blank"></a> 
+   <img align="right" src="ff9.gif" height=100px/>
+</div>
