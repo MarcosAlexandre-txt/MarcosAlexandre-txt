@@ -25,17 +25,9 @@
 
 ##
 
-<div>
-  <a href="https://beacons.ai/eulauragabriel">
-  <img height="123cm" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eulauragabriel&include_all_commits=true&count_private=true&show_icons=true&title_color=ffffff&bg_color=75c775&text_color=ffffff&border_color=ffffff&icon_color=ffffff"/>
-  <img height="123cm" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eulauragabriel&layout=compact&langs_count=16&title_color=ffffff&bg_color=75c775&text_color=ffffff&border_color=ffffff&icon_color=ffffff"/>
-</div>
-
-##
-
 <b> Click [here](https://marcosportfolio-flame.vercel.app/) to check out my portfolio! 🧑‍🎨 </b>
 <div>
-  <a href = "mailto:marcos.alexandre.scrt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=75c775" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcos-alexandre-cs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=75c775" target="_blank"></a> 
+  <a href = "mailto:marcos.alexandre.scrt@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" /></a>
+  <a href="https://www.linkedin.com/in/marcos-alexandre-cs/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a> 
    <img align="right" src="ff9.gif" height=100px/>
 </div>
