@@ -7,11 +7,11 @@
 
 <b>I study systems analysis and development at FATEC in São José dos Campos, Brazil.</b> 
 <b>Passionate developer who loves building things that blend logic, creativity, and meaning.</b> 
-<b>I’m deeply interested in **software engineering**, **game development**, **philosophy**, **literature** and **martial arts**!</b> 
+<b>I’m deeply interested in software engineering, game development, philosophy, literature and martial arts!</b> 
 
 #
 
-## 🧰 Languages and Tools
+### 🧰 Languages and Tools
 
 ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
