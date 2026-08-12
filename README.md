@@ -5,8 +5,8 @@
 
 #
 
-<b>I study systems analysis and development at FATEC in São José dos Campos, Brazil.</b> 
-<b>Passionate developer who loves building things that blend logic, creativity, and meaning.</b> 
+<b>I study software development at FATEC in São José dos Campos, Brazil.</b> 
+<b>Passionate about building things that blend logic, creativity, and purpose.</b> 
 <b>I’m deeply interested in software engineering, game development, philosophy, literature and martial arts!</b> 
 
 #
